@@ -1,4 +1,4 @@
-# Verilog Code for Single bit adder
+# Lab-01: Verilog Code for Single bit adder
 ## Design code (Using dataflow modeling style)
 ```verilog
 
