@@ -8,3 +8,12 @@
 5. [PLDs and FPGA](https://github.com/charlie2951/vlsi/blob/main/theory/module1/programmable_asic.md)
 
 ## Module-2 ##
+
+
+## Laboratory ##
+### Verilog-based Digital Design 
+1. Single bit full adder
+2. Four-bit adder using single bit
+3. Modeling of Flip-flops
+4. Flip-flop conversion
+5. 
