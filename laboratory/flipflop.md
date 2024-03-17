@@ -1,4 +1,4 @@
-# Modeling of Flip-flops in Verilog
+# Lab-03:Modeling of Flip-flops in Verilog
 ## SR Flip flop using Behavioral modeling
 
 ### Design code
