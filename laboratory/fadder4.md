@@ -1,5 +1,5 @@
-# 4-bit Ripple carry adder using single bit adder
-*Note:* You need to include 1-bit adder code in your project/design<br>
+# Lab-02: Four bit Ripple carry adder using single-bit adder
+*Note:* You need to include 1-bit adder code from Lab-01 in your project/design<br>
 
 *Copy 1-bit adder design code from Lab-01.* <br>
 **4bit adder using 1bit adder** <br>
