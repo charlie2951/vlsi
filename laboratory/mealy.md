@@ -1,4 +1,4 @@
-# Modeling Finite State Machine in Verilog HDL: Mealy FSM
+# Lab-06: Modeling Finite State Machine in Verilog HDL: Mealy FSM
 ## Implementation of Sequence Detector (1011 sequence) using Mealy FSM
 We know that synchronous sequential circuits change and affect their states for every positive or negative transition of the clock signal based on the input. So, this behavior of synchronous sequential circuits can be represented in a graphical form and it is known as a state diagram. A synchronous sequential circuit is also called a Finite State Machine FSM if it has a finite number of states. There are two types of FSMs.
 1. Mealy State Machine
