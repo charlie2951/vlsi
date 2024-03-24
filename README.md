@@ -10,6 +10,9 @@
 ## Module-2: Fabrication Process Flow ##
 
 ## Module-3: MOS Transistor basics ##
+1. Two terminal MOS Structure
+2. Accumulation, Depletion and Inversion
+3. [Expression of Threshold Voltage of MOSFET](https://github.com/charlie2951/vlsi/blob/main/theory/module3/vth_component.md)
 
 ## Module-4: MOS and CMOS Inverters ##
 1. [Super Buffer -Chain of Inverters](https://github.com/charlie2951/vlsi/blob/main/theory/module4/super_buffer.md)
