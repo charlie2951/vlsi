@@ -16,9 +16,9 @@
 
 ## Laboratory ##
 ### Verilog-based Digital Design 
-1. Single bit full adder
-2. Four-bit adder using single bit
-3. Modeling of Flip-flops
-4. Flip-flop conversion
+1. [Single bit full adder](https://github.com/charlie2951/vlsi/blob/main/laboratory/adder1.md)
+2. [Four-bit adder using single bit](https://github.com/charlie2951/vlsi/blob/main/laboratory/fadder4.md)
+3. [Modeling of Flip-flops](https://github.com/charlie2951/vlsi/blob/main/laboratory/flipflop.md)
+4. [Flip-flop conversion](https://github.com/charlie2951/vlsi/blob/main/laboratory/flipflop_conversion.md)
 5. [Modeling of Moore FSM](https://github.com/charlie2951/vlsi/blob/main/laboratory/moore.md)
 6. [Modeling of Mealy FSM](https://github.com/charlie2951/vlsi/blob/main/laboratory/mealy.md)
