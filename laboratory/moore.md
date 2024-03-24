@@ -1,4 +1,4 @@
-# Sequence Detector Design using Moore FSM in Verilog
+# Lab-05: Sequence Detector Design using Moore FSM in Verilog
 In this post, one sequence detector is designed in Verilog HDL using a Moore-type Finite state machine. A Finite State Machine is said to be a Moore state machine if outputs depend only on
 present states. You can find the Mealy FSM-based sequence detector here. <br>
 ![image](https://github.com/charlie2951/vlsi/assets/90516512/145ee580-227e-48fd-984a-3dd8ecf4c6e0)
