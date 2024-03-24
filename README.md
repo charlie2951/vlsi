@@ -20,4 +20,5 @@
 2. Four-bit adder using single bit
 3. Modeling of Flip-flops
 4. Flip-flop conversion
-5. 
+5. [Modeling of Moore FSM](https://github.com/charlie2951/vlsi/blob/main/laboratory/moore.md)
+6. [Modeling of Mealy FSM](https://github.com/charlie2951/vlsi/blob/main/laboratory/mealy.md)
